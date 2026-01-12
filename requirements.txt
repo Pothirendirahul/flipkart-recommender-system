@@ -8,4 +8,4 @@ pypdf
 python-dotenv
 pandas
 flask
-promethueus_client
+promethueus-client
